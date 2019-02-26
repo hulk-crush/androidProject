@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">helloApp</string>
+    <string name="hello">hello Geek</string>
+    <string name="weather">Weather</string>
+
+
+</resources>
