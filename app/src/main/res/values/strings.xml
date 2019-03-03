@@ -2,6 +2,8 @@
     <string name="app_name">helloApp</string>
     <string name="hello">hello Geek</string>
     <string name="weather">Weather</string>
+    <string name="weatherData">Moscow</string>
+    <string name="temperature">10С</string>
 
-
+    temperature
 </resources>
